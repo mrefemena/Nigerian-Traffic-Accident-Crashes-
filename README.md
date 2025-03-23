@@ -27,9 +27,7 @@ Process
 - Created calculated fields,
 - Created visualizations using Tableau.
 # Dashboard
-
-
-
+<a href ="https://public.tableau.com/app/profile/efemena.mudiaga/viz/NigeriaCarCrash/NigerianRoadTrafficCrashes">View Dashboard</a>
 
 # Findings:
 Abuja has the highest number of road traffic accidents, with 24,260 crashes recorded. This suggests that the capital city experiences the most road accidents, likely due to high vehicle density, urban congestion, and increased road activity. Contributing factors may include speed violations, reckless driving, and poor road infrastructure in certain areas.
